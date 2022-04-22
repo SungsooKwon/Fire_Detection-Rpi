@@ -1,5 +1,5 @@
 # Raspberry Pi Fire Detection System
-![first_02](https://user-images.githubusercontent.com/63221959/164699101-61dea629-7d2c-41bd-9c18-aecf783ad2af.png)
+![image](https://user-images.githubusercontent.com/63221959/164700686-37549a6a-06f1-412b-ba9e-f3afe865039e.png)
 
 ---
 ## preparation
@@ -34,4 +34,4 @@
 
 ---
 ## System 
-![image](https://user-images.githubusercontent.com/63221959/164700686-37549a6a-06f1-412b-ba9e-f3afe865039e.png)
+![first_02](https://user-images.githubusercontent.com/63221959/164699101-61dea629-7d2c-41bd-9c18-aecf783ad2af.png)
