@@ -44,3 +44,8 @@
 ---
 ## System 
 ![first_02](https://user-images.githubusercontent.com/63221959/164699101-61dea629-7d2c-41bd-9c18-aecf783ad2af.png)
+---
+# To do
+---
+- connect database(firebase)
+- TTS
